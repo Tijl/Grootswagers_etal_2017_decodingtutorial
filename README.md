@@ -1,11 +1,13 @@
 # Description
 
-This repository contains the code that was used for the time-series decoding tutorial, which can be found at:
+This repository contains the code that was used for the figures in the time-series decoding tutorial, which can be found at:
 http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_01068
 
-The code was specifically created for the paper, and is provided here for archiving purposes only. It would need a large amount of work to run on new data. 
+# Disclaimer
 
-To get started on time-series decoding, using one of the toolboxes (e.g., CoSMoMVPA) is recommended.
+The code was specifically created for the paper, and is provided here for archiving purposes only. It has minimal documentation, and would need a large amount of work to get it to run on other data.
+
+To get started on time-series decoding, using one of the toolboxes is recommended (e.g., CoSMoMVPA: http://cosmomvpa.org/).
 
 # License
 
